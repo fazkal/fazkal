@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fazkal
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Djago
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
