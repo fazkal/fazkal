@@ -1,19 +1,11 @@
-<style>
-    .icon {
-        display: inline-block;
-        align-items: center;
-        width: 40px;
-        height: 40px;
-        margin: 0 10px;
-    }
-</style>
+
 <div>
-    <img src="python.png" class="icon">
-    <img src="django.png" class="icon">
-    <img src="restApi.png" class="icon">
-    <img src="docker.png" class="icon">
-    <img src="github.png" class="icon">
-    <img src="ubuntu.png" class="icon">
+    <img src="python.png" style="width:60px;height:60px;">
+    <img src="django.png" style="width:60px;height:60px;">
+    <img src="restApi.png" style="width:60px;height:60px;">
+    <img src="docker.png" style="width:60px;height:60px;">
+    <img src="github.png" style="width:60px;height:60px;">
+    <img src="ubuntu.png" style="width:60px;height:60px;">
 </div>
 <h2>Introduction:</h2>
 <p>Web programmer with more than 8 years of experience in the field of information and communication technology, with a special focus on the development of backend web applications with Python language and Django framework. Has a successful history in designing and implementing organizational websites and a high ability to work with monitoring tools such as Zabbix and Grafana.</p>
