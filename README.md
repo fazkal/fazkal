@@ -1,11 +1,11 @@
 
 <div>
-    <img src="python.png" style="width:60px;height:60px;">
-    <img src="django.png" style="width:60px;height:60px;">
-    <img src="restApi.png" style="width:60px;height:60px;">
-    <img src="docker.png" style="width:60px;height:60px;">
-    <img src="github.png" style="width:60px;height:60px;">
-    <img src="ubuntu.png" style="width:60px;height:60px;">
+    <img src="python.png" style="width:60px;height:60px;" alt="Centered Image">
+    <img src="django.png" style="width:60px;height:60px;" alt="Centered Image">
+    <img src="restApi.png" style="width:60px;height:60px;" alt="Centered Image">
+    <img src="docker.png" style="width:60px;height:60px;" alt="Centered Image">
+    <img src="github.png" style="width:60px;height:60px;" alt="Centered Image">
+    <img src="ubuntu.png" style="width:60px;height:60px;" alt="Centered Image">
 </div>
 <h2>Introduction:</h2>
 <p>Web programmer with more than 8 years of experience in the field of information and communication technology, with a special focus on the development of backend web applications with Python language and Django framework. Has a successful history in designing and implementing organizational websites and a high ability to work with monitoring tools such as Zabbix and Grafana.</p>
